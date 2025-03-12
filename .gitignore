@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+.vscode/
+.idea/
+log*
+*.dump
+*.so
+*.png
+dataset*/
+slurm*/
+paper/

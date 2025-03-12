@@ -1,0 +1,9 @@
+[project]
+name = "cf"
+version = "1.0"
+
+[tool.setuptools.packages.find]
+include = ["cf"]
+
+[tool.setuptools.package-data]
+"cf" = ["**/*"]

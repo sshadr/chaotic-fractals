@@ -1,0 +1,3 @@
+[submodule "lib/simple-knn"]
+	path = lib/simple-knn
+	url = https://gitlab.inria.fr/bkerbl/simple-knn.git

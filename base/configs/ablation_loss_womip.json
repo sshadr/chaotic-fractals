@@ -1,0 +1,40 @@
+{
+    "gpu" : 1,  
+
+    "optimizer": {
+        "seed" : 5,
+        "training_iters" : 15000,
+        "learning_rate" :1e-2,
+        "num_points" : 250,
+        "num_matrices" : 10,
+        "model_batches" : 2000,
+        "parameterization" : "qr",
+        "noisy_gradients" : 0,
+        "simulated_annealing" : 1,
+        "init" : "random",
+        "multiscale" : 0,
+        "randomize_probs" : 1,
+        "randomize_sequence" : 1,
+        "mip" : 0,
+        "loss" : "mls",
+        "use_reg" : 1
+    },  
+
+    "renderer": {
+        "splat_scale": 2.5,
+        "supersample_factor": 5,
+        "image_res": 1024,
+        "background_color": 0
+    },
+    
+    "logdirs":{
+        
+        "save_intermediates" : 0,
+        "folders" :{
+            "init" : "init",
+            "output" : "output",            
+            "batch" : "batch"
+        },
+        "subfolders": ["imgs", "diff"]
+    }
+}

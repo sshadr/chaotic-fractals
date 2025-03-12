@@ -1,0 +1,26 @@
+# Other pip dependencies
+easydict
+nbconvert
+plyfile
+numba
+tensorboard
+ninja
+glfw
+imageio
+imageio-ffmpeg
+lpips
+tqdm
+opencv-python
+matplotlib
+click
+scipy
+pyopengl
+freetype-py
+wheel 
+setuptools
+
+# Other libraries
+lib/fractal-pretraining
+lib/cf_base
+lib/simple-knn
+lib/diff-isogaussian-rasterization

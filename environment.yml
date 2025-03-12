@@ -1,0 +1,26 @@
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - click
+  - scipy
+  - opencv
+  - matplotlib
+  - pyopengl
+  - freetype-py
+  - imageio
+  - pip:
+    - lpips
+    - easydict
+    - nbconvert
+    - plyfile
+    - numba
+    - tensorboard
+    - ninja
+    - glfw
+    - imageio-ffmpeg
+    - tqdm
+    - lib/simple-knn
+    - lib/diff-isogaussian-rasterization
+    - lib/cf_base
+    - lib/fractal-pretraining
