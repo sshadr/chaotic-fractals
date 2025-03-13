@@ -22,7 +22,7 @@ git clone "https://github.com/sshadr/chaotic-fractals" --recursive
 ### Dataset
 We use the implementation from [Improving Fractal Pre-training](https://github.com/catalys1/fractal-pretraining) for generating fractal datasets.
 
-We provide the dataset used in our experiments in our project page. The default organization of the files as follows:
+We provide the dataset used in our experiments in our project page. The default organization of the files is as follows:
 
 ```
 ├── base

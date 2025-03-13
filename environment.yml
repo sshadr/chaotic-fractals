@@ -23,4 +23,3 @@ dependencies:
     - lib/simple-knn
     - lib/diff-isogaussian-rasterization
     - lib/cf_base
-    - lib/fractal-pretraining

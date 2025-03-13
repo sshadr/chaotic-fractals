@@ -20,7 +20,6 @@ wheel
 setuptools
 
 # Other libraries
-lib/fractal-pretraining
 lib/cf_base
 lib/simple-knn
 lib/diff-isogaussian-rasterization
