@@ -79,6 +79,14 @@ Our Differentiable CUDA Rasterizer is built upon the 3D Gaussian Splatting [Rast
 ### Citation
 Please cite our paper if you refer to our results or use the method or code in your own work:
 
-    @article{
-        TBD
+    
+    @article{djeacoumar25chaoticfractals,
+    title   = {{Learning Image Fractals Using Chaotic Differentiable Point Splatting}},
+    author  = {Djeacoumar, Adarsh and Mujkanovic, Felix and Seidel, Hans-Peter and Leimk{\"u}ehler, Thomas},
+    journal = {Computer Graphics Forum},
+    volume  = {44},
+    number  = {2},
+    pages   = {e70084},
+    year    = {2025}
     }
+            
